@@ -68,10 +68,10 @@ h1 {
 
 @media (max-width: 480px) {
   .tecla {
-    height: 60px;
-    font-size: 0.7rem;
+    height: 80px;
+    font-size: 0.9rem;
     line-height: 0;
-    width: 60px;
+    width: 80px;
     border-radius: 15px;
   }
 }
