@@ -31,12 +31,13 @@ O projeto emite determinado som equivalente a um instrumento quando o usuário c
 
 ## :computer: Abrir e rodar o projeto
 
-**Para testar o projeto de forma online mesmo basta acessa-lo <a href="https://portfolio-lucasdevrj.vercel.app/">aqui</a>**
+**Para testar o projeto de forma online mesmo basta acessa-lo <a href="https://alura-midi-beige.vercel.app/">aqui</a>**
 
 ## Tecnologias utilizadas
 
 - HTML
 - CSS
+- JavaScript
 
 ## Autores
 
