@@ -21,6 +21,8 @@ O projeto emite determinado som equivalente a um instrumento quando o usuário c
 - `Funcionalidade 1`: Escutar som emitido pelas teclas
 - `Funcionalidade 2`: Utilizar a responsividade
 
+https://github.com/LucasDevRJ/alura-midi/assets/95040236/e02c2e2c-8f6a-4d7a-8d36-db0359f2759a
+
 ## :computer: Acesso ao projeto
 
 1. Tenha algum editor de código ou IDE instalado no seu computador
